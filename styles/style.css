@@ -167,6 +167,54 @@ body {
     left: 10px; ;
 }
 
+/*Habits Section */
+
+.habits {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.habits h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.section-description {
+    font-size: 18px;
+    margin-bottom: 40px;
+    color: #ddd;
+}
+
+/* Habit Cards Grid */
+.habit-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.habit-card {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.habit-card img {
+    max-width: 100px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.habit-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.habit-card p {
+    font-size: 16px;
+    color: #ddd;
+}
 
 
 
