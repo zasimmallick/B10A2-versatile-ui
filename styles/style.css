@@ -217,6 +217,66 @@ body {
 }
 
 
+/* Extra Mile Section */
+.extra-mile {
+    background-color: #222;
+    padding: 50px 20px;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-content {
+    max-width: 50%;
+}
+
+.text-content h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.text-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #ddd;
+}
+
+.text-content .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: #f44336;
+    color: #fff;
+}
+
+.image-content {
+    max-width: 45%;
+}
+
+.image-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
 
 
 
