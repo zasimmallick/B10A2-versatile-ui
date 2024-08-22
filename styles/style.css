@@ -354,6 +354,54 @@ body {
 }
 
 
+/* Team Section */
+.team-section {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+.team-title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.team-subtitle {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team-member {
+    background-color: #2e2e2e;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+    max-width: 200px;
+}
+
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.team-member h3 {
+    font-size: 1.25rem;
+    margin: 10px 0;
+}
+
+.team-member p {
+    font-size: 1rem;
+    color: #b5b5b5;
+}
 
 
 
